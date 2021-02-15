@@ -7,7 +7,7 @@ using WebApplication4.Models;
 
 namespace WebApplication1.Models
 {
-    public class APIContext : DbContext
+    public partial class APIContext : DbContext
     {
         public APIContext(DbContextOptions<APIContext> options)
             : base(options)

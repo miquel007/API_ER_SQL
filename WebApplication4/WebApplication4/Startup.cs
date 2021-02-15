@@ -51,7 +51,14 @@ namespace WebApplication4
 
             app.UseHttpsRedirection();
 
-            app.UseRouting();            
+            app.UseRouting();
+            
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }

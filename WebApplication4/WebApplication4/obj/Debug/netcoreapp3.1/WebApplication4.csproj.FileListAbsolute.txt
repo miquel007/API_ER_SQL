@@ -157,3 +157,4 @@ A:\curs MTA\Web app\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebA
 A:\curs MTA\Web app\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
 A:\curs MTA\Web app\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
 A:\curs MTA\Web app\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+A:\curs MTA\Web app\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
